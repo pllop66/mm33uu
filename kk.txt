@@ -1,0 +1,17 @@
+EXTM3U
+
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES| M+ #VAMOS FHD" tvg-logo="https://lo1.in/sp/vamhd.png" group-title="EU | SPAIN SPORTS FHD",ES| M+ #VAMOS FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/165882
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS FHD",ES| DAZN 1 ESPAÑA FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/360194
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS FHD",ES| DAZN 2 ESPAÑA FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/360195
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="EU | SPAIN SPORTS FHD",ES| DAZN 3 ESPAÑA FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/379042
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="EU | SPAIN SPORTS FHD",ES| DAZN 4 ESPAÑA FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/379043
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="EU | SPAIN SPORTS FHD",ES| DAZN LA LIGA 1 FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/400440766
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="EU | SPAIN SPORTS FHD",ES| DAZN LA LIGA 2 FHD
+http://hzkkruy.mtop5.xyz:80/2245935531/0088925281/400440765
+
