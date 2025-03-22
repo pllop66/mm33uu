@@ -1,5 +1,5 @@
 #EXTM3U
-#   EU | SPAIN SPORTS
+#   EU | SPAIN SPOS
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES| M+ #VAMOS FHD" tvg-logo="https://lo1.in/sp/vamoss.png" group-title="01_SPAIN SPORTS FHD",ES| M+ #VAMOS FHD
 http://ersnrpvu.pixel4k.uk:80/V811XJTN/ZLZR5T3V/165882
 #EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| M+ LALIGATV BAR FHD" tvg-logo="https://lo1.in/sp/M+ LALIGATV BAR.png" group-title="01_SPAIN SPORTS FHD",ES| M+ LALIGATV BAR FHD
